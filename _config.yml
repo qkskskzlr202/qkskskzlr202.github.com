@@ -1,10 +1,10 @@
 # Site settings
-title: Another Blog
+title: qkskskzlr202's blog
 url: "https://qkskskzlr202.github.io"  # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  코딩 연습을 위한 블로그 
 
 # Your information
 email: your_email@example.com
